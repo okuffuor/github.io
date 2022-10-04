@@ -13,7 +13,7 @@ name                     : &name "Owura Kuffuor"
 description              : &description "personal description"
 url                      : https://www.owurakuffuor.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kunkel54/skytheacademic.github.io"
+repository               : "okuffuor/okuffuor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,19 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sky Kunkel"
+  name             : "Owura Kuffuor"
   avatar           : "profile.jpg"
-  bio              : "Political Scientist studying non-state actors and conflict"
+  bio              : "Political Scientist "
   location         : "Purdue University"
-  email            : "kunkel3@purdue.edu"
-  orcid            : "http://orcid.org/0000-0002-1849-5318"
-  researchgate     : "https://www.researchgate.net/profile/Sky-Kunkel"
-  github           : "skytheacademic"
-  linkedin         : "skytheacademic"
-  twitter          : "skytheacademic"
+  email            : "okuffuor@purdue.edu"
+  orcid            : "https://orcid.org/0000-0002-4769-1043"
+  researchgate     : #"https://www.researchgate.net/profile/Sky-Kunkel"
+  github           : #"skytheacademic"
+  linkedin         : #"skytheacademic"
+  twitter          : #"skytheacademic"
   employer         :
   pubmed           :
-  googlescholar    : https://scholar.google.com/citations?hl=en&user=Dpi4Ys4AAAAJ
+  googlescholar    : #https://scholar.google.com/citations?hl=en&user=Dpi4Ys4AAAAJ
   uri              :
   bitbucket        :
   codepen          :
