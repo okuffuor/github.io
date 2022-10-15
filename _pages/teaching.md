@@ -7,7 +7,8 @@ author_profile: true
 
 ### Instructor of Record
 
-*POL 237 - Modern Weapons and International Relations, Summer 2021/22 (Online)*
+*POL 237 - Governments of the World, Fall 2019*
+*POL 237 - Governments of the World, Summer 2020*
 
 See the bottom of this page for one of my many videos for POL-237.
 
