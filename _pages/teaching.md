@@ -7,15 +7,15 @@ author_profile: true
 
 ### Instructor of Record
 
-*POL 237 - Governments of the World, Fall 2019*
-*POL 237 - Governments of the World, Summer 2020*
+#*POL 237 - Governments of the World, Fall 2019*
+#*POL 237 - Governments of the World, Summer 2020*
 
-See the bottom of this page for one of my many videos for POL-237.
+#See the bottom of this page for one of my many videos for POL-237.
 
-Anonymous reviews from students regarding my teaching:
+#Anonymous reviews from students regarding my teaching:
 
-* "Great communication and fair, clear feedback on assignments"
-* "Loved this class, Prof. Kunkel was a great instructor, I especially loved the format of the class and transparency from the start about what to expect. I hope they continue to lay out and stick to a schedule in the syllabus so well, it made it very easy to succeed as a student"
+#* "Great communication and fair, clear feedback on assignments"
+#* "Loved this class, Prof. Kunkel was a great instructor, I especially loved the format of the class and transparency from the start about what to expect. I hope they continue to lay out and stick to a schedule in the syllabus so well, it made it very easy to succeed as a student"
 * "Sky has done a great job with organizing this course. I found the videos extremely informative and easy to follow, yet also containing key information. I also appreciated that there was more than one medium to get the information from, be it audio recordings, videos (which I preferred), or the script from that week. I would hope that they continue to do everything they have already done, and that you guys give them a raise, because they deserve it"
 
 
